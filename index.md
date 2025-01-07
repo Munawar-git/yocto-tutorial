@@ -1,4 +1,8 @@
 <style>
+    body{
+        background:#333333;
+        color:white;
+    }
     .h1-bg{
         background:#00f800;
         color:#333333;
