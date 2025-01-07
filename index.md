@@ -1,6 +1,12 @@
-## 00 Introduction to Yocto
+<style>
+    .h1-bg{
+        background:#00f800;
+        color:#333333;
+    }
+</style>
+<h1 class="h1-bg"> Chapter 0 : Introduction to Yocto</h1>
 
-### What is Yocto?
+## What is Yocto?
 
 **THE YOCTO PROJECT.  IT'S NOT AN EMBEDDED LINUX DISTRIBUTION, IT CREATES A CUSTOM ONE FOR YOU.**
 
